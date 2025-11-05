@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "/home/liveuser/proga/c-programming/include/array_function.h"
+#include ".../include/array_function.h"
 
 void join_int_arrays(int* src1, size_t size_src1, int* src2, size_t size_src2, int* dest) {
     int i, j;
